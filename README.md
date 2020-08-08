@@ -1,4 +1,4 @@
-# Discordbot-Zack
+# 財哥 Line 機器人
 財哥...語錄...Discord...機器人...
 
 ![截圖](./screenshot.png)
@@ -22,9 +22,6 @@
 
   # Your linebot app listen port
   PORT=""
-
-  # Your isthereanydeal API key
-  ITAD_KEY=""
   ```
 - 安裝相依套件 `npm install`
 - 執行 `npm run start`
